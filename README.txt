@@ -1,3 +1,1 @@
-Heavily inspire by https://github.com/iwan382/crew
-
-add to github
+Heavily inspired by https://github.com/iwan382/crew
